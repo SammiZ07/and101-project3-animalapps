@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purrflix_black
+color purrflix_grey
+color purrflix_red
+color white
+drawable hero_cat
+drawable purrflix_logo
+drawable rounded_red_button
+id cta
+id footer
+id heroCat
+id logo
+id subtitle
+id title
+layout activity_main
+string app_name
+string cta_text
+string cta_tip
+string footer_text
+string hero_desc
+string logo_desc
+string subtitle_text
+string title_text
+style Theme.Purrflix

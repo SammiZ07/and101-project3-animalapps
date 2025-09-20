@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Purrflix</string>
+    <string name="logo_desc">Purrflix logo</string>
+    <string name="hero_desc">Sleepy cat watching shows</string>
+    <string name="title_text">Unlimited meow-vies, meow-sic &amp; more</string>
+    <string name="subtitle_text">Watch on any paw-vice. Cancel anytime.</string>
+    <string name="cta_text">START YOUR FREE PURRIAL</string>
+    <string name="cta_tip">Tap to begin your free purrial</string>
+    <string name="footer_text">Got a code from your hooman? Redeem it here</string>
+</resources>

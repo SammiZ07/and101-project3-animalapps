@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purrflix_black">#0B0B0B</color>
+    <color name="purrflix_grey">#B3B3B3</color>
+    <color name="purrflix_red">#E50914</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Purrflix</string>
+    <string name="cta_text">START YOUR FREE PURRIAL</string>
+    <string name="cta_tip">Tap to begin your free purrial</string>
+    <string name="footer_text">Got a code from your hooman? Redeem it here</string>
+    <string name="hero_desc">Sleepy cat watching shows</string>
+    <string name="logo_desc">Purrflix logo</string>
+    <string name="subtitle_text">Watch on any paw-vice. Cancel anytime.</string>
+    <string name="title_text">Unlimited meow-vies, meow-sic &amp; more</string>
+    <style name="Theme.Purrflix" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorSurface</item>
+    </style>
+</resources>
