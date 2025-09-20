@@ -40,15 +40,14 @@ The following EXTRA features are implemented:
 - [x] Kotlin DSL Gradle setup (AGP/Kotlin versions pinned)
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the Netflix app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![Kapture 2025-09-19 at 22.58.16.gif](../../../../private/var/folders/9z/fmfxrqb52wd_dgdbd_bqj2880000gn/T/119e87839e1c8b39a205912a18b5726b/Kapture%202025-09-19%20at%2022.58.16.gif)
 
 GIF created with **your chosen GIF tool**
 
@@ -61,9 +60,9 @@ GIF created with **your chosen GIF tool**
 
 Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
 
-It is for an app that **brief description**.
+It is for an app that replicates netflix.
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+
 
 ## Notes
 
@@ -71,7 +70,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2025 Carlos Hernandez 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
